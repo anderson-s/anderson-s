@@ -7,8 +7,8 @@
 - ❣️ I am a member of the Student Group of Programming and Innovative Projects at IFCE Campus Canindé;
 - 🚀 I'm always willing to learn new things.
 
-
-
+## Tools and Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 
 
