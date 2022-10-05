@@ -13,6 +13,7 @@
 <a href="https://instagram.com/andesonsilva607" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/francisco-andeson-sousa-da-silva-04910323b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<a href="https://twitter.com/Andeson62593637/" taget="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
 ## Tools and Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width="35" height="35" />
