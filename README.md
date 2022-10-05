@@ -7,4 +7,10 @@ Seja muito bem vindo ao meu perfil GitHub, fique a vontade para checar meus repo
 - ❣️ Sou membro do Grupo Discente de Programação e Projetos Inovadores do IFCE Campus Canindé;
 - 🚀 Sempre estou disposto a aprender coisas novas.
 
+## Contatos:
+
+<div>
+<a href="https://www.instagram.com/andesonsilva607/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/francisco-andeson-sousa-da-silva-04910323b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
