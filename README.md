@@ -7,6 +7,13 @@
 - ❣️ I am a member of the Student Group of Programming and Innovative Projects at IFCE Campus Canindé;
 - 🚀 I'm always willing to learn new things.
 
+<div>
+<a href="https://github.com/anderson-s">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-s&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
 ## Contacts:
 
 <div>
