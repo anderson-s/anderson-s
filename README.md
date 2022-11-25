@@ -14,14 +14,7 @@
 <a href="https://www.linkedin.com/in/francisco-andeson-sousa-da-silva-04910323b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://twitter.com/Andeson62593637/" taget="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
-
-##
-<div>
-<a href="https://github.com/anderson-s">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-s&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
+ 
 ## Tools and Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width="35" height="35" />
 
